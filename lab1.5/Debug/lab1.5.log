@@ -1,0 +1,37 @@
+﻿Построение начато 09.09.2020 12:45:22.
+     1>Проект "C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\lab1.5.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\lab1.5.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab1.5.cpp
+         lab1.5.cpp
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\student\desktop\lab1\lab1logic\╨в╤а╨╛╤и╨║╨╕╨╜, ╨г╤а╤п╨┤╨╛╨▓\lab1\lab1.5\lab1.5.cpp(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab1.5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.lib" /MACHINE:X86 Debug\lab1.5.obj
+         LINK : не найден или не выполнена сборка C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.exe при последней инкрементной компоновке; выполняется полная компоновка
+         lab1.5.vcxproj -> C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\Debug\lab1.5.exe;#1" /manifest Debug\lab1.5.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab1.5.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab1.5.lastbuildstate".
+     1>Построение проекта "C:\Users\student\Desktop\lab1\lab1logic\╨в╤А╨╛╤И╨║╨╕╨╜, ╨г╤А╤П╨┤╨╛╨▓\lab1\lab1.5\lab1.5.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.87
