@@ -1,0 +1,23 @@
+﻿Построение начато 02.09.2020 14:13:23.
+     1>Проект "C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\lab1.3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab1.3.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab1.3.cpp
+         lab1.3.cpp
+     1>c:\users\student\desktop\test\трошкин, урядов\lab1\lab1.3\lab1.3.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab1.3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.lib" /MACHINE:X86 Debug\lab1.3.obj
+         LINK : не найден или не выполнена сборка C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.exe при последней инкрементной компоновке; выполняется полная компоновка
+         lab1.3.vcxproj -> C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\Debug\lab1.3.exe;#1" /manifest Debug\lab1.3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab1.3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab1.3.lastbuildstate".
+     1>Построение проекта "C:\Users\student\Desktop\test\Трошкин, Урядов\lab1\lab1.3\lab1.3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.51
